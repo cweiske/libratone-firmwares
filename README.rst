@@ -17,6 +17,6 @@ Official firmware version list:
 - english: https://support.libratone.com/hc/en-us/articles/204449421-Zipp-Zipp-Mini-Firmware-versions
 - german: https://support.libratone.com/hc/de/articles/204449421-Zipp-Zipp-Mini-Firmwareversionen
 
-Download URL of latest firmware 809::
+Download URL of latest firmware 879::
 
-  http://firmware.birdytone.com.cn/download/OTA/Zipp_Mini/Zipp_02_809_FULL_20181207.zip
+  http://cdn.little-bird.com.cn/download/OTA/Zipp2/Zipp_02_879_FULL_20250206.zip
