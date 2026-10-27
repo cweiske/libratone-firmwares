@@ -20,3 +20,9 @@ Official firmware version list:
 Download URL of latest firmware 879::
 
   http://cdn.little-bird.com.cn/download/OTA/Zipp2/Zipp_02_879_FULL_20250206.zip
+
+
+Links
+=====
+
+- Tool to extract Zipp v1 firmware: https://github.com/shrderek/zipp-ffaa-toolkit
